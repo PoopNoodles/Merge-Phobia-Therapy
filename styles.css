@@ -1,0 +1,16 @@
+body {
+    background-image: url(./assets/evil-background.png);
+    font-family: 'Malevolent Sans', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+#heading-to-hell {
+    background-color: black ;
+    width: 45%;
+    color: darkred;
+}
+
+
+
+
