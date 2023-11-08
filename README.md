@@ -11,7 +11,7 @@ Welcome to the lair of the *Evil Merge Monster*! In this branch, chaos reigns, a
 
 ### Your Journey:
 
-1. Merge this branch into the **"Safe-Haven-Branch"**.
+1. Merge this branch into the **"Safe-Haven"** branch.
 2. As you traverse the code, expect eerie conflicts that will require all your wits and resolve.
 3. With each conflict resolved, you will be an inch closer to becoming a *Master of Merge Conflicts*!.
 
